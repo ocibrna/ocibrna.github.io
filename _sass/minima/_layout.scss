@@ -8,18 +8,24 @@
   
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  position: left;
 }
 
 .site-title-wrapper {
   margin-bottom: 5px; /* Adjust the margin as needed */
+  margin-top: 10px;
 }
 
 .site-title {
+
+  flex-grow: 1;
+  
   @include relative-font-size(1.625);
   margin: 0;
   font-weight: 300;
   letter-spacing: -1px;
+  
+  
   
 
   @include media-query($on-palm) {
@@ -30,6 +36,8 @@
   &:visited {
     color: $site-title-color;
   }
+
+
 }
 
 .site-subtitle {
@@ -37,7 +45,7 @@
   margin: 0; 
 }
 
-.site-nav {
+/* .site-nav {
   position: absolute;
   top: 9px;
   right: $spacing-unit * .5;
@@ -124,7 +132,7 @@
     }
   }
 }
-
+ */
 
 
 /**
@@ -347,4 +355,17 @@
   .one-half {
     width: calc(50% - (#{$spacing-unit} / 2));
   }
+}
+
+/* image na headru */
+
+.header-image {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+
+.header-image img {
+  max-width: 30%;
+  height: auto;
 }
