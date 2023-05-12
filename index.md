@@ -7,6 +7,3 @@
 #
 layout: home
 ---
-
-
-[download pdf](https://ocibrna.github.io/assets/letak.pdf)
