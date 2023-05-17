@@ -9,10 +9,14 @@
         <a rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       </h1>
       {%- if site.subtitle -%}
-        <p class="site-subtitle">{{ site.subtitle }}</p>
+        <p class="site-subtitle">{{ site.subtitle | escape }}</p>
       {%- endif -%}
   
     </div>
+   <!--  </div class="uvodni">
+    tsetsets
+
+    </div> -->
 
   
     <!-- <div class="header-image">
@@ -41,5 +45,5 @@
     {%- endif -%} -->
 
   </div>
-  <img class="logooci" src="oci_brna.png" alt="logo oci brna">
+  <img class="logooci" src="assets/ocibrnablack.png" alt="logo oci brna">
 </header>

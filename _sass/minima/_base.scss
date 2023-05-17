@@ -112,12 +112,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $link-base-color;
+  color: black;
   text-decoration: none;
 
-  &:visited {
+  /* &:visited {
     color: $link-visited-color;
-  }
+  } */
 
   &:hover {
     color: $link-hover-color;
@@ -131,6 +131,10 @@ a {
       text-decoration: underline;
     }
   }
+}
+
+header.site-title a.site-title {
+  color: white !important;
 }
 
 
