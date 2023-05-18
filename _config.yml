@@ -1,12 +1,13 @@
 title: Oči Brna
-author:
-  name: Testovič
+subtitle: Hudební oddělení - Programové oddělení
+author: 
+  name: Hudební oddělení Moravské zemské knihovny
   email: test@mzk.cz
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
- Zde může být anotace
+ Bělského překlady hudebně didaktických traktátů druhé poloviny 18. století
 
 # Build settings
 
@@ -55,3 +56,7 @@ minima:
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false
+
+header_pages:
+  - about.md
+  - test.md
