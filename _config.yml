@@ -1,0 +1,22 @@
+title: Vratislav Bělský
+# subtitle: Hudební oddělení - Programové oddělení
+author: 
+  name: Hudební oddělení Moravské zemské knihovny
+  email: hudebni@mzk.cz
+
+description: >
+ Vratislav Bělský - Multimediální výstava
+
+
+theme: minima
+
+
+minima:
+
+
+header_pages:
+  - about.md
+  - test.md
+
+collections:
+  - belsky
