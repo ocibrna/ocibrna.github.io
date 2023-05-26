@@ -1,6 +1,8 @@
 /**
  * Site header
  */
+@media (max-width: 790px) {
+
 .site-header {
   border-top: 5px solid grey;
   border-bottom: 5px solid grey;
@@ -11,129 +13,69 @@
  
 }
 
-.site-title-wrapper {
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 5px;
-}
-
-.site-title {
-  font-size: calc(2vw + 2rem);
-  margin: 0;
-  font-weight: 300;
-  letter-spacing: -1px;
-  font-style: bold;
-}
-
-.site-subtitle {
+/* .site-subtitle {
   font-size: 0.80rem;
   margin: 5px; 
   color: white
+} */
+
+.site-title {
+  font-size: /* calc(2vw + 2rem) */ 50re;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 0;
+  font-weight: 250;
+  letter-spacing: -1px;
+  font-style: bold;
+  margin-top: 0px;
 }
 
-.logooci {
+ .logooci {
   width: 14%;
   display: flex;
-  justify-content: flex-end;
-  margin-right: 120px;
+  /* justify-content: flex-end; */
+  margin-right: 20px;
   margin-top: 10px;
   margin-bottom: 10px;
+ }
+
 }
 
-
-/* .site-nav {
-  position: absolute;
-  top: 9px;
-  right: $spacing-unit * .5;
-  background-color: $background-color;
-  border: 1px solid $border-color-01;
-  border-radius: 5px;
-  text-align: right;
-
-  .nav-trigger {
-    display: none;
+@media (min-width: 791px) {
+  .logooci {
+    width: 13%;
+    display: flex;
+    /* justify-content: flex-end; */
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .site-header {
+    border-top: 5px solid grey;
+    border-bottom: 5px solid grey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url("/assets/uvodni.jpeg");
+   
+  }
+  
+  /* .site-title-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5px;
+  } */
+  
+  .site-title {
+    font-size: calc(2vw + 2rem);
+    margin: 0;
+    font-weight: 300;
+    letter-spacing: -1px;
+    font-style: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
-  .menu-icon {
-    float: right;
-    width: 36px;
-    height: 26px;
-    line-height: 0;
-    padding-top: 10px;
-    text-align: center;
-
-    > svg path {
-      fill: $border-color-03;
-    }
-  }
-
-  label[for="nav-trigger"] {
-    display: block;
-    float: right;
-    width: 36px;
-    height: 36px;
-    z-index: 2;
-    cursor: pointer;
-  }
-
-  input ~ .trigger {
-    clear: both;
-    display: none;
-  }
-
-  input:checked ~ .trigger {
-    display: block;
-    padding-bottom: 5px;
-  }
-
-  .page-link {
-    color: $text-color;
-    line-height: $base-line-height;
-    display: block;
-    padding: 5px 10px;
-
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 0;
-    }
-    margin-left: 20px;
-  }
-
-  @media screen and (min-width: $on-medium) {
-    position: static;
-    float: right;
-    border: none;
-    background-color: inherit;
-
-    label[for="nav-trigger"] {
-      display: none;
-    }
-
-    .menu-icon {
-      display: none;
-    }
-
-    input ~ .trigger {
-      display: block;
-    }
-
-    .page-link {
-      display: inline;
-      padding: 0;
-
-      &:not(:last-child) {
-        margin-right: 20px;
-      }
-      margin-left: auto;
-    }
-  }
 }
- */
 
-
-/**
- * Site footer
- */
 .site-footer {
   border-top: 1px solid $border-color-01;
   padding: $spacing-unit 0;
@@ -144,9 +86,6 @@
   margin-bottom: $spacing-unit * .5;
 }
 
-.feed-subscribe .svg-icon {
-  padding: 5px 5px 2px 0
-}
 
 .contact-list,
 .social-media-list {
@@ -341,28 +280,3 @@
     }
   }
 }
-
-
-
-/**
- * Grid helpers
- */
-/* @media screen and (min-width: $on-large) {
-  .one-half {
-    width: calc(50% - (#{$spacing-unit} / 2));
-  }
-} */
-
-/* image na headru */
-
-/* .header-image {
-  display: flex;
-  /* align-items: flex-start; */
- /*  justify-content: flex-end;
-  align-self: top;
- */
-
-/* .header-image img {
-  max-width: 30%;
-  height: auto;
-} */
