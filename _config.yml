@@ -20,3 +20,5 @@ header_pages:
 
 collections:
   - belsky
+
+permalink: /:title

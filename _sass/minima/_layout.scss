@@ -38,6 +38,12 @@
   margin-bottom: 10px;
  }
 
+ .post-icon {
+  max-width: 6%;
+  height: auto;
+  vertical-align: middle;  
+}
+
 }
 
 @media (min-width: 791px) {
@@ -72,6 +78,10 @@
     letter-spacing: -1px;
     font-style: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .post-icon {
+    max-width: 3%;  
   }
 
 }
@@ -280,3 +290,4 @@
     }
   }
 }
+
