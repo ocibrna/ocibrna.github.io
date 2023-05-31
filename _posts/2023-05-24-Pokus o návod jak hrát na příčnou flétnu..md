@@ -1,12 +1,16 @@
 ---
 layout: post
 title: "Pokus o návod jak hrát na příčnou flétnu"
+group_title: "Teoretik a pedagog"
 ---
 ---
 <figure>
   <img src="/assets/quantz1.png" alt="testiv" width="30%" height="30%" style="float: right; margin-left: 10px;">
 </figure>
 <div style="text-align: justify;">
+<p>
+<strong>Vratislav Bělský</strong> přispěl svými překlady hudebních traktátů druhé poloviny 18. století k hlubšímu porozumění poučené interpretace tzv. staré hudby. Tyto jeho počiny měly zásadní význam, neboť se jednalo o jejich první úplné zprostředkování v českém jazyce. Tematicky si vybíral okruhy týkající se výuky hry na hudební nástroje a otázky interpretační. Soustředil se především na německou jazykovou oblast. Tady reflektoval jednak tzv. berlínský okruh, který představují členové kapely pruského krále Friedricha II. Johann Joachim Quantz a Carl Philipp Emanuel Bach, z okruhu jihoněmeckých autorů je to Leopold Mozart. Francouzské hudební teoretiky zastupuje Georg Muffat. Přestože jsou díla jednotlivých autorů zaměřena na konkrétní nástroj (flétna, klavír, housle), případně hudební formu (balet), podávají všeobecný přehled o dobové interpretační praxi. Jinými slovy nástroj je vřazen do celkového kontextu dobové hudební kultury. Pro porozumění konkrétnímu dílu doplnil Bělský překlady (vyjma Muffata) komentářem, který je jakýmsi úvodem do problematiky díla.
+</p>
 <p>Prvním z uvedených překladů, který vyšel roku 1990, je proslulý <strong>Pokus o návod jak hrát na příčnou flétnu</strong> flétnisty a skladatele Johanna Joachima Quantze (1697–1773) Spis vyšel poprvé v Berlíně roku 1752. Další vydání spadají do let 1780 a 1789, a to v nezměněné podobě. Současně s prvním vydáním vyšel překlad do francouzštiny, následovaly holandština (1754) a angličtina (1779).</p>
 <p>Bělského překlad je prvním úplným překladem do češtiny – do jeho vydání bylo česky publikováno pouze několik citátů z Quantzova traktátu. Snaha zachovat věrnost originálu se projevuje též po stránce formální. Je zachována nejen původní forma, ale též typografická úprava. Kniha je založena na stejném dělení kapitol na paragrafy. Quantzem zdůrazněná slova jsou vytištěna proloženě. Čtenáři se tak nabízí případná možnost srovnání překladu s originálem. Jako pomocný zdroj uvádí Bělský anglický překlad Edwarda R. Reillyho: Essay of a Method for playing The Transverse Flute, London, Faber & Faber, 1966. Na něm oceňuje mj. bohatý poznámkový aparát založený na podrobném studiu pramenů a literatury, stejně jako porovnávání německého a francouzského textu.</p>
 <p>Český překlad je doplněn rozsáhlejší analýzou pod názvem Slovo k překladu (s. 285–288), poznámkovým aparátem, do něhož jsou zahrnuty i původní Quantzovy poznámky (s. 251–281) a aktuálním seznamem pramenů a literatury (s. 282–284). Součástí jsou původní notové příklady, vytvořené na základě originálních tabulek číslovaných I – XXVI. Ty jsou umístěny na konec knihy – u Quantze vyšly ve zvláštním sešitku. Do knihy je vřazen též Quantzův portrét a originální titul z prvního vydání v roce 1752 včetně orientačního českého překladu:</p>
