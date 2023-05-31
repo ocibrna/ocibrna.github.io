@@ -1,0 +1,1 @@
+Příprava na předání
