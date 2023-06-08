@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pražské jaro"
+title: "Collegium musicum brunense na Pražském jaru"
 ---
 ---
 <div class="image-container">

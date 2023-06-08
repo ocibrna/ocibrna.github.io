@@ -1,20 +1,29 @@
 ---
 layout: post
-title: "Nauku o varhanách"
+title: "Nauka o varhanách"
 ---
 ---
-
-<img src="/assets/varhany/varhany1.png" width="30%" height="30%" style="float: right; margin-left: 10px;">
 
 <div class="ntext">
 <p>
 Vratislav Bělský je autorem učebních textů, které vycházejí z jeho interpretační a pedagogické praxe. Dva jsou věnovány varhanám a cembalu, nástrojům, které dokonale ovládal a hru na ně vyučoval. Zvláštní pozornost pak zaslouží spis Hudba baroka, v němž jeho autor vytvořil zasvěcený a přehledný úvod do provozovací praxe hudby 17. a 18. století.
 </p>
 
+<div class="image-container">
+    <img src="/assets/varhany/varhany1.png" width="60%" height="60%">
+</div>
+<div class="popis-obrazku">
+<p>
+BĚLSKÝ, Vratislav. Nauka o varhanách. 2. opravené vydání.
+Praha: Editio Supraphon, 1984.
+</p>
+</div>
+&nbsp;
+
 <!-- &nbsp; -->
 
 <p>
-Bělský koncipoval svoji Nauku o varhanách pro praktické potřeby výuky tohoto nástroje na konzervatoři, konkrétně pro druhý a třetí ročník. Sám varhany vyučoval na brněnské konzervatoři, kniha se tak stala učebnicí pro studenty této školy i po odchodu jejího autora v polovině osmdesátých let. O ohlasu knihy a její užitečnosti svědčí další pohotová a revidovaná vydání během osmdesátých let v Supraphonu; definitivní verzi vydal Bärenreiter v roce 2000.
+Bělský koncipoval svoji <b>Nauku o varhanách</b> pro praktické potřeby výuky tohoto nástroje na konzervatoři, konkrétně pro druhý a třetí ročník. Sám varhany vyučoval na brněnské konzervatoři, kniha se tak stala učebnicí pro studenty této školy i po odchodu jejího autora v polovině osmdesátých let. O ohlasu knihy a její užitečnosti svědčí další pohotová a revidovaná vydání během osmdesátých let v Supraphonu; definitivní verzi vydal Bärenreiter v roce 2000.
 </p>
 <p>
 V Úvodu (Editio Bärenreiter, 2000, s. [3]) vymezuje autor základní témata, jimž se bude věnovat. Jedná se o konstrukci nástroje, jeho zvukovou podstatu a funkci v hudebním a společenském životě. Stanoví předpoklady, které jsou nezbytné pro studium knihy: vedle „minimální znalosti akustických jevů, s nimiž pracujeme v hudbě a které se odehrávají v píšťale“, je stejně potřebná také „základní historická orientace“ (s. [3]). Toto vyjádření svědčí o skutečnosti, že Bělský nevnímá nástroj a výuku na něj izolovaně, nýbrž řadí jej do dějin evropské hudby a evropské kultury.
@@ -35,7 +44,7 @@ Důležité je upozornění na varhanní terminologii, jejíž české ekvivalen
 </div>
 <div class="popis-obrazku">
 <p>
-BĚLSKÝ, Vratislav Bělský. Nauka o varhanách. 
+BĚLSKÝ, Vratislav. Nauka o varhanách. 
 Schéma otevřených válcových píšťal z kapitoly Jazykové píšťaly.
 </p>
 </div>

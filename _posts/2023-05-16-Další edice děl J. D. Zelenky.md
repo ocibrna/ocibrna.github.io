@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jan Dismas Zelenka - edice"
+title: "Další edice děl J. D. Zelenky"
 ---
 ---
 

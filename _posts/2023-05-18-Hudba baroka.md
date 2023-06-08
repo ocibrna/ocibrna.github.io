@@ -3,10 +3,21 @@ layout: post
 title: "Hudba baroka"
 ---
 ---
-<img src="/assets/hudba_baroka/hudba_baroka1.png" width="30%" height="30%" style="float: right; margin-left: 10px;">
+
+<div class="image-container">
+    <img src="/assets/hudba_baroka/hudba_baroka1.png" width="60%" height="60%">
+</div>
+<div class="popis-obrazku">
+<p>
+BĚLSKÝ, Vratislav. Hudba baroka: Provozovací praxe hudby 17. a 18. století. 2. vydání.
+Brno: Janáčkova akademie múzických umění v Brně, 2010. Skripta hudební fakulty. Velká řada. Obálka knihy.
+</p>
+</div>
+&nbsp;
+
 <div class="ntext">
 <p>
-Bělský dokončil tuto svoji učebnici v roce 2002 – předmluva je datována únorem téhož roku. V následujícím roce autor zemřel (26. dubna 2003), aniž by se dočkal vydání knihy. Hudbu baroka vydala Janáčkova akademie múzických umění, instituce, pro jejíž posluchače byla primárně určena, v roce 2009 ve velké řadě Skript hudební fakulty. Odborných korektur a aktualizace textu se zhostila Barbara Maria Willi, která rovněž napsala předmluvu. Autorkou doslovu je Monika Holá. Pro velký ohlas se o rok později uskutečnilo stejné vydání péčí téže instituce.
+Bělský dokončil tuto svoji učebnici v roce 2002 – předmluva je datována únorem téhož roku. V následujícím roce autor zemřel (26. dubna 2003), aniž by se dočkal vydání knihy. <b>Hudbu baroka</b> vydala Janáčkova akademie múzických umění, instituce, pro jejíž posluchače byla primárně určena, v roce 2009 ve velké řadě Skript hudební fakulty. Odborných korektur a aktualizace textu se zhostila Barbara Maria Willi, která rovněž napsala předmluvu. Autorkou doslovu je Monika Holá. Pro velký ohlas se o rok později uskutečnilo další vydání péčí téže instituce.
 </p>
 <p>
 Genezi a účel publikace popsal její autor následovně:
@@ -34,7 +45,7 @@ O tom, že se nejedná o nadsázku, svědčí samotný charakter knihy. Autor tu
 V Úvodu (s. 8–10) Bělský popisuje cestu k autentickému zaznění díla určité doby. Zároveň stanovuje určité mantinely tvrzením, že ani po poznání všech stylových okolností a ideálů doby nelze zaručit dokonalé autentické provedení díla. Mezi důvody patři např. mísení různých národních škol. Toto tvrzení je skeptické jen zdánlivě, neboť jak vyplývá z mnoha dalších pasáží, takto poučený pohled na dílo ponechává tvůrčí svobodu interpretovi.
 </p>
 <p>
-Ve své práci se Bělský soustředí na hudbu období baroka, které vymezuje přibližně lety 1600 až 1750. Přestože je skeptický k pojmu „baroko“ v knize jej – patrně z praktických důvodů – užívá. Vymezuje obecně okruhy a otázky interpretace barokní hudby. Patří mezi ně rozdíl mezi barokním zápisem a zápisem hudby od počátku 19. století, preference provedení (interpretace) před dílem ve staré hudbě (proto patrně vznikalo tak velké množství skladeb), neexistence interpretační jednoty v období baroka, malá dostupnost spisů autorů 17. a 18. století v českém překladu atd.
+Ve své práci se Bělský soustředí na hudbu období baroka, které vymezuje přibližně lety 1600 až 1750. Přestože je skeptický k pojmu „baroko“, v knize jej – patrně z praktických důvodů – užívá. Vymezuje obecně okruhy a otázky interpretace barokní hudby. Patří mezi ně rozdíl mezi barokním zápisem a zápisem hudby od počátku 19. století, preference provedení (interpretace) před dílem ve staré hudbě (proto patrně vznikalo tak velké množství skladeb), neexistence interpretační jednoty v období baroka, malá dostupnost spisů autorů 17. a 18. století v českém překladu atd.
 </p>
 
 &nbsp;
@@ -43,10 +54,10 @@ Ve své práci se Bělský soustředí na hudbu období baroka, které vymezuje 
 V kapitole Vznik nového slohu (s. 11–15) poukazuje autor na velký vliv platónské akademie ve Florencii a jejího hlavního filosofa Marsilia Ficina. V rámci ní se rekrutovala florentská Camerata, jejíž členové přispěli ke vzniku recitativu. U Claudia Monteverdiho jsou zdůrazněny pojmy prima a seconda prattica, které Bělský spojuje s termíny stile antico a stile moderno. Podrobně se věnuje Monteverdiho stile concitato. V návaznosti na Cameratu a Monteverdiho přechází ke vzniku opery, která byla v dobové terminologii označována stile rappresentativo. U benátského operního stylu neopomíjí vznik belcanta. Význam Itálie vyzdvihuje dále pro rozvoj instrumentální hudby včetně zrodu nových instrumentálních forem.
 </p>
 <p>
-Další dvě hudební kultury, jimž se bude Bělský v dalším textu věnovat, jsou Francie a Německo. Autor formuluje rozdíl mezi francouzským a italským vnímáním antiky a soustředí se na osobnost Jeana Baptisty Lullyho. Vznik německého hudebního stylu, vrcholícího Telemannem a J. S. Bachem, charakterizuje jako střet a syntézu stylu italského a francouzského.
+Další dvě hudební kultury, jimž se bude Bělský v dalším textu věnovat, jsou Francie a Německo. Autor formuluje rozdíl mezi francouzským a italským vnímáním antiky a soustředí se na osobnost Jeana Baptisty Lullyho. Vznik německého hudebního stylu, vrcholícího G. Ph. Telemannem a J. S. Bachem, charakterizuje jako střet a syntézu stylu italského a francouzského.
 </p>
 <p>
-Dalším důležitým tématem je polarita (renesanční) polyfonie a monodie, jinak zápas mezi stile antico a moderno, k jehož syntéze došlo v pozdním baroku: Bach, Händel aj. Následuje poukaz na rozdíl mezi vnímáním hudby v baroku a dnes: ten spočívá mj. ve skutečnosti, že zatímco člověk období baroka poslouchal výhradně hudbu současnou, dnešní konzument má k dispozici hudbu různých slohových epoch.
+Dalším důležitým tématem je polarita (renesanční) polyfonie a monodie, jinak zápas mezi styly antico a moderno, k jejichž syntéze došlo v pozdním baroku: J. S. Bach, G. F. Händel aj. Následuje poukaz na rozdíl mezi vnímáním hudby v baroku a dnes: ten spočívá mj. ve skutečnosti, že zatímco člověk období baroka poslouchal výhradně hudbu současnou, dnešní konzument má k dispozici hudbu různých slohových epoch.
 </p>
 
 <div class="image-container">
@@ -72,19 +83,13 @@ Již na tomto místě jsou teoretické principy doloženy četnými notovými p�
 &nbsp;
 
 <p>
-Do úvodu kapitoly Metrika a rytmika – hudební figury (s. 27–34) jsou zařazeny definice rytmu a metriky a jejich rozdíly. Po tomto východisku se autor podrobně věnuje antickým metrickým systémům jako východisku pro evropskou hudební metriku. Definuje pojem časomíra jako polaritu dlouhých a krátkých stop. Následuje přehled nejdůležitějších časoměrných stop, které Bělský dělí na sestupné a vzestupné. Jejich charakter znázorňuje notací. Zajímavostí je výčet velkého počtu méně frekventovaných tříslabičných stop. V těchto partiích se autor odvolává především na Johanna Matthesona.
+Do úvodu kapitoly Metrika a rytmika – hudební figury (s. 27–34) jsou zařazeny definice rytmu a metriky a jejich rozdíly. Poté se autor podrobně věnuje antickým metrickým systémům jako východisku pro evropskou hudební metriku. Definuje pojem časomíra jako polaritu dlouhých a krátkých stop. Následuje přehled nejdůležitějších časoměrných stop, které Bělský dělí na sestupné a vzestupné. Jejich charakter znázorňuje notací. Zajímavostí je výčet velkého počtu méně frekventovaných tříslabičných stop. V těchto partiích se autor odvolává především na Johanna Matthesona.
 </p>
 
 &nbsp;
 
 <p>
-Do úvodu kapitoly Metrika a rytmika – hudební figury (s. 27–34) jsou zařazeny definice rytmu a metriky a jejich rozdíly. Po tomto východisku se autor podrobně věnuje antickým metrickým systémům jako východisku pro evropskou hudební metriku. Definuje pojem časomíra jako polaritu dlouhých a krátkých stop. Následuje přehled nejdůležitějších časoměrných stop, které Bělský dělí na sestupné a vzestupné. Jejich charakter znázorňuje notací. Zajímavostí je výčet velkého počtu méně frekventovaných tříslabičných stop. V těchto partiích se autor odvolává především na Johanna Matthesona.
-</p>
-
-&nbsp;
-
-<p>
-Kapitola Notace (s. 35–57) definuje úkol notového písma a popisuje rozdílný význam notových značek v různých staletích a u různých autorů. Autor upozorňuje na nedokonalost notového písma, které neurčuje základní informace, jako je délka tónu, jeho výška a tempo.
+Kapitola Notace (s. 35–57) definuje úkol notového písma a popisuje rozdílný význam notových značek v různých staletích a u různých skladatelů. Autor upozorňuje na nedokonalost notového písma, které neurčuje základní informace, jako je délka tónu, jeho výška a tempo.
 Stanovuje dva odlišné principy použití notových značek:
 </p>
 
@@ -150,7 +155,7 @@ Konstatuje, že stará hudba obsahuje málo tempových pokynů. Přesto je otáz
 K otázce charakteru jednotlivých temp Bělský uvádí, že rozdíl mezi Adagiem a Allegrem byl menší než dnes. Ostatně tyto pojmy naznačovaly spíš charakter hudby a byly vyjádřeny notací: delší hodnoty pro Adagio, kratší pro Allegro.
 </p>
 <p>
-Základní tempovou jednotku stanovil tep lidského srdce. Tady se dovolává autor Quantze:
+Za základní tempovou jednotku byl v baroku ustanoven tep lidského srdce. Tady se Bělský dovolává Quantze:
 </p>
 
 <div class="citat">
@@ -160,7 +165,7 @@ Při stanovení tempa vychází Quantz z předpokladu osmdesáti tepů za minutu
 </div>
 
 <p>
-V této souvislosti ovšem zároveň poukazuje na rozmanitost dobových názorů. Jako důkaz uvádí definici základních temp Johannem Gottfriedem Waltherem, Jeanem Jacquesem Rousseauem a Leopoldem Mozartem.
+V této souvislosti ovšem Bělský zároveň poukazuje na rozmanitost dobových názorů. Jako důkaz uvádí definici základních temp Johannem Gottfriedem Waltherem, Jeanem Jacquesem Rousseauem a Leopoldem Mozartem.
 </p>
 
 <div class="image-container">
@@ -212,7 +217,7 @@ Následuje rozsáhlý přehled ozdob na konkrétních příkladech různých aut
 </p>
 
 <p>
-Připojeny jsou srovnávací tabulky ozdob Louise Couperina, Jacquese Championa de Chambonnières, Nicolas Antoina Lebèguea a Jeana Henriho d’Angleberta (s. 105–110).
+Připojeny jsou srovnávací tabulky ozdob Louise Couperina, Jacquese Championa de Chambonnières, Nicolase Antoina Lebèguea a Jeana Henriho d’Angleberta (s. 105–110).
 </p>
 
 <div class="image-container">

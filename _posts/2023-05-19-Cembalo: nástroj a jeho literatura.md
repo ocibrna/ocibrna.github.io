@@ -3,10 +3,21 @@ layout: post
 title: "Cembalo: nástroj a jeho literatura"
 ---
 ---
-<img src="/assets/cembalo/cembalo1.png" width="30%" height="30%" style="float: right; margin-left: 10px;">
+
+<div class="image-container">
+    <img src="/assets/cembalo/cembalo1.png" width="60%" height="60%">
+</div>
+<div class="popis-obrazku">
+<p>
+BĚLSKÝ, Vratislav. Cembalo: Nástroj a jeho literatura.
+Brno: Janáčkova akademie múzických umění v Brně, 2002. Obálka knihy.
+</p>
+</div>
+&nbsp;
+
 <div class="ntext">
 <p>
-Cembalo je dalším z nástrojů, jemuž se Vratislav Bělský věnoval jako interpret i pedagog. Průkopnický význam měl pro tento nástroj na brněnské konzervatoři, kde jeho zásluhou bylo cembalo zavedeno nejprve jako nepovinný, později obligátní předmět pro klavíristy a varhaníky. Bez tohoto přínosu by se cembalo nemohlo později stát, díky Bělského následovníkům, nástrojem hlavního oboru. Spis Cembalo: nástroj a jeho literatura vyšel dvakrát: poprvé roku 1993 (bez uvedení místa a nakladatele), podruhé v roce 2002 péčí JAMU.
+Cembalo je dalším z nástrojů, jemuž se Vratislav Bělský věnoval jako interpret i pedagog. Průkopnický význam měl pro tento nástroj na brněnské konzervatoři, kde jeho zásluhou bylo cembalo zavedeno nejprve jako nepovinný, později obligátní předmět pro klavíristy a varhaníky. Bez tohoto přínosu by se cembalo nemohlo později stát, díky Bělského následovníkům, nástrojem hlavního oboru. Spis <b>Cembalo: nástroj a jeho literatura</b> vyšel dvakrát: poprvé roku 1993 (bez uvedení místa a nakladatele), podruhé v roce 2002 péčí JAMU.
 </p>
 <p>
 Koncepci spisu a význam nástroje v dějinách formuluje Bělský ve stručném Úvodu (s. 7). Cembalo vnímá z hlediska historického vývoje poukazem na jeho blízkost s varhanami. Poukazuje na skutečnost, že až do poloviny 18. století cembalisté a varhaníci byli jedna a táž osoba. V minulosti také docházelo ke kombinaci obou nástrojů, např. v podobě claviorgana, clavicembala nebo cembala (klavichordu) s pedálem. Má to vliv i na dnešní volbu nástroje, neboť, jak píše Bělský, „nejstarší památky hudby pro klávesové nástroje nelze od sebe přesně oddělit. K odlišování dochází v podstatě teprve v průběhu 16. a zejména 17. století, kdy vznikají první samostatné formy hudby pro klávesové nástroje“ (s. 7).
@@ -18,7 +29,12 @@ Konec vývoje cembala klade Bělský do poloviny 18. století v souvislosti s n�
 Spis má podle svého autora převážně historické zaměření. Neopomíjí však ani novodobé kompozice pro cembalo, věnuje se domácímu uměleckému školství, kde se cembalo začíná vyučovat od počátku sedmdesátých let 20. století, a dokumentuje současný trend stavitelů novodobých kopií historických nástrojů.
 </p>
 <div class="image-container">
-    <img src="/assets/cembalo/cembalo2.png" width="60%" height="60%">
+    <img src="/assets/cembalo/cembalo2.png" width="60%" height="60%" style="
+            -webkit-transform: rotate(90deg);
+            -moz-transform: rotate(90deg);
+            -ms-transform: rotate(90deg);
+            -o-transform: rotate(90deg);
+            transform: rotate(90deg);">
 </div>
 <div class="popis-obrazku">
 <p>
