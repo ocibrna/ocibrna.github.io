@@ -25,7 +25,7 @@ HYj7R0cWhTs"}
 <a href="https://youtu.be/HYj7R0cWhTs" target="_blank">Videoprezentace osobnosti Vratislava Bělského</a> -->
 
 <div style="text-align: center;">
-<a href="https://youtu.be/HYj7R0cWhTs">
+<a href="https://youtu.be/HYj7R0cWhTs" target="_blank">
 <img src="/assets/video.png" alt="HTML tutorial" style="width:45px;height:auto;">
 Videoprezentace osobnosti Vratislava Bělského
 </a>
