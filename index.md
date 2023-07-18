@@ -26,8 +26,17 @@ HYj7R0cWhTs"}
 
 <div style="text-align: center;">
 <a href="https://youtu.be/HYj7R0cWhTs" target="_blank">
-<img src="/assets/video.png" alt="HTML tutorial" style="width:45px;height:auto;">
+<img src="/assets/video.png" alt="video" style="width:45px;height:auto;">
 Videoprezentace osobnosti Vratislava Bělského
 </a>
 </div>
+&nbsp;
+
+<div style="text-align: center;">
+<a href="Zahájení-výstavy-Oči-Brna-Vratislav-Bělský-v-MZK-dne-12.-června-2023">
+<img src="/assets/camera.png" alt="zahájené výstavy" style="width:40px;height:auto;">
+Zahájení výstavy Oči Brna - Vratislav Bělský v MZK dne 12. června 2023
+</a>
+</div>
+
 ---
