@@ -2,7 +2,7 @@
 layout: post
 title: Zahájení výstavy Oči Brna - Vratislav Bělský v MZK dne 12. června 2023
 ---
-
+---
 <div class="image-container">
     <img src="/assets/vernisaz/hudebnivystoupeni.jpg" width="100%" height="100%">
 </div>
