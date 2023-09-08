@@ -1,0 +1,28 @@
+title: EDUARD LENDL
+# subtitle: Hudební oddělení - Programové oddělení
+
+
+author:
+  name: 
+  email: 
+
+description: >
+ Eduard Lendl - Multimediální výstava
+
+
+theme: minima
+
+
+minima:
+
+
+header_pages:
+  - about.md
+  - test.md
+
+collections:
+  - belsky
+
+permalink: /:title
+
+google_analytics: G-Q0K6ZELB9Y
