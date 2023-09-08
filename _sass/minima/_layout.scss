@@ -4,13 +4,35 @@
 @media (max-width: 790px) {
 
 .site-header {
-  border-top: 5px solid black;
-  border-bottom: 5px solid black;
+  border-top: 5px #005c5f;
+  border-bottom: 2px solid #f9d0a1;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-image: url("/assets/uvodni2.jpeg");
+  background-image: url("/assets2/vln1.png"), url("/assets2/vln2.png");
+  background-repeat: no-repeat;
+  background-position: 20% 80%,  80% 20%;
+  background-size: 40%;
+  background-color: #005c5f;
  
+}
+
+.contact-list,
+.social-media-list {
+  list-style: none;
+  font-size: 15px;
+  margin-left: 0;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  color: #f9d0a1;
+}
+
+.popis {
+  color: #f9d0a1;
+  margin-left: 50px;
+  margin-top: 10px;
+  font-size: 18px;
+
 }
 
 /* .site-subtitle {
@@ -25,9 +47,12 @@
   margin: 0;
   font-weight: 250;
   letter-spacing: -1px;
-  font-style: bold;
+  font-weight: bold;
   margin-top: 0px;
+  color: #f9d0a1;
+  /* font-weight: 600; */
 }
+
 
  .logooci {
   width: 14%;
@@ -39,11 +64,11 @@
  }
 
  .mzk {
-  width: 40%;
-  margin-left: 100px;
+  width: 70%;
+  margin-left: 50px;
   margin-right: 0px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 50px;
  }
 
  .post-icon {
@@ -63,13 +88,43 @@
     margin-top: 10px;
     margin-bottom: 10px;
   }
+
+  .popis {
+    color: #f9d0a1;
+    margin-left: 50px;
+    margin-top: 20px;
+  }
+
+  .mzk {
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 50px;
+   }
+
+  .contact-list,
+  .social-media-list {
+  list-style: none;
+  font-size: 20px;
+  margin-left: 0;
+  margin-right: 200px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  color: #f9d0a1;
+}
+
   .site-header {
-    border-top: 5px solid black;
-    border-bottom: 5px solid black;
+    border-top: 5px black;
+    border-bottom: 3px solid #f9d0a1;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url("/assets/uvodni2.jpeg");
+    /* background-image: url("/assets2/board.png"); */
+    /* background-size: 40%; */
+    background-color: #005c5f;
+    background-image: url("/assets2/vln1.png"), url("/assets2/vln2.png");
+    background-repeat: no-repeat;
+    background-position: 20% 80%,  80% 20%;
+    background-size: 40%;
    
   }
   
@@ -86,6 +141,7 @@
     letter-spacing: -1px;
     font-style: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #f9d0a1;
   }
 
   .post-icon {
@@ -95,26 +151,29 @@
 }
 
 .site-footer {
-  border-top: 1px solid $border-color-01;
-  padding: $spacing-unit 0;
+  border-top: 3px solid #f9d0a1;
+  /* padding: $spacing-unit 0; */
+  background-color: #005c5f;
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit * .5;
+
 }
 
 
-.contact-list,
-.social-media-list {
-  list-style: none;
-  margin-left: 0;
+
+
+.footer-col-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.footer-col-wrapper,
 .social-links {
   @include relative-font-size(0.9375);
-  color: $brand-color;
+  color: #f9d0a1;
 }
 
 .footer-col {
@@ -144,7 +203,7 @@
   }
 }
 
-@media screen and (min-width: $on-medium) {
+/* @media screen and (min-width: $on-medium) {
   .footer-col-wrapper {
     display: flex
   }
@@ -256,7 +315,7 @@
 }
 
 
-.social-media-list {
+/* .social-media-list {
   display: table;
   margin: 0 auto;
   li {
@@ -270,7 +329,7 @@
       &:hover { border-color: $border-color-02 }
     }
   }
-}
+} */
 
 
 
@@ -297,5 +356,15 @@
       }
     }
   }
+}
+
+.kralovna2 {
+  width: 30%;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: auto;
+  /* margin-top: 10px; */
+  /* margin-bottom: 10px; */
+  margin-left: 300px;
 }
 
