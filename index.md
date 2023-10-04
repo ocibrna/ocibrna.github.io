@@ -27,7 +27,7 @@ Sám šachy aktivně hrál za brněnský klub Duras, trénoval, věnoval se výc
 Šachový fond MZK dnes čítá téměř 6 000 svazků ve třicítce jazyků a kolem 100 titulů tuzemských i zahraničních časopisů. Je dodnes považován za jeden z největších v Evropě a stále doplňován.
 </p>
 <p>
-Část fondu je digitalizována, jako například spisy Metoděje Garguláka, který po mnoho let sbíral šachové partie mistra světa Alexandra Aljechina (1892 – 1946). Partie přepsané na stroji a někdy i ručně malované jsou dostupné v Digitální knihovně.
+Část fondu je digitalizována, jako například spisy Metoděje Garguláka, který po mnoho let sbíral šachové partie mistra světa Alexandra Aljechina (1892 – 1946). Partie přepsané na stroji a někdy i ručně malované jsou dostupné v <a href="https://www.digitalniknihovna.cz/mzk/periodical/uuid:206a5d94-0d9f-4549-ad2b-830e3da3b10f" style="text-decoration: underline; color: blue">Digitální knihovně</a>.
 </p>
 <p>
 Šachový koutek Eduarda Lendla je místem, kde mohou zájemci ke studiu královské hry využívat nejen knihy a časopisy, ale také moderní šachový software. Oproti čtenářské průkazce si lze v knihovně vypůjčit šachové soupravy a hodiny. Koutek se nachází v prvním patře a je volně přístupný v otevírací době knihovny.
@@ -100,6 +100,23 @@ BÁRTA, Jan a LENDL, Eduard. Helsinki 1952: výběr 120 partií ze šachové oly
 </p>
 </div>
 
+---
+
+<div style="text-align: center;">
+<a href="https://www.youtube.com/watch?v=A2LSzJT_r50" target="_blank">
+<img src="/assets/video.png" alt="video" style="width:45px;height:auto;">
+videoprezentace osobnosti Eduarda Lendla
+</a>
+</div>
+
 &nbsp;
+
+
+<div style="text-align: center;">
+<a href="/image-gallery">
+<img src="/assets/camera.png" alt="zahájené výstavy" style="width:40px;height:auto;">
+fotogalerie - výstava Eduard Lendl
+</a>
+</div>
 
 ---

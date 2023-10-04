@@ -43,7 +43,7 @@ V roce 2022 byl v 1. patře MZK slavnostně otevřen Šachový koutek Eduarda Le
 
 &nbsp;
 
-<style>
+<!-- <style>
 	.video-container
 	{
 		width: 50%;
@@ -55,10 +55,10 @@ V roce 2022 byl v 1. patře MZK slavnostně otevřen Šachový koutek Eduarda Le
 </style>
 
 <div class="video-container">
-	<video src="/assets2/skel/zdravice.mov" controls width="80%" height="80%"></video>
+	<video src="/assets2/skel/zdravice.mp4" controls width="80%" height="80%"></video>
 </div>
 
-&nbsp;
+&nbsp; -->
 
 <div class="image-container">
     <img src="/assets2/skel/navara.jpg" width="100%" height="100%">

@@ -38,3 +38,19 @@ Vlastimil Chládek
     <img src="/assets2/mince/mince3.jpg" width="100%" height="100%">
 </div>
 &nbsp;
+<div class="image-container">
+    <img src="/assets2/mince/mince4.jpg" width="100%" height="100%">
+</div>
+&nbsp;
+<div class="image-container">
+    <img src="/assets2/mince/mince5.jpg" width="100%" height="100%">
+</div>
+&nbsp;
+<div class="image-container">
+    <img src="/assets2/mince/mince6.jpg" width="100%" height="100%">
+</div>
+&nbsp;
+<div class="image-container">
+    <img src="/assets2/mince/mince7.jpg" width="100%" height="100%">
+</div>
+&nbsp;
